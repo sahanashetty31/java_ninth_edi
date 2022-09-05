@@ -1,5 +1,5 @@
 package array;
-
+/*
 public class TwoDAgain {
     public static void main(String[] args) {
         int twoA[][] = new int[4][];
@@ -15,8 +15,9 @@ public class TwoDAgain {
             }
         for(i=0;i<4;i++){
             for(j=0;j<i+j++)
-                System.out.println(twoA[i][j] + " ");
+                System.out.print(twoA[i][j] + " ");
             System.out.println();
         }
     }
 }
+*/
