@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/week3/day1/day1.iml" filepath="$PROJECT_DIR$/src/week3/day1/day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week2/day1/day11.iml" filepath="$PROJECT_DIR$/src/week2/day1/day11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week4/day1/day12.iml" filepath="$PROJECT_DIR$/src/week4/day1/day12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week3/day2/day2.iml" filepath="$PROJECT_DIR$/src/week3/day2/day2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week5/day2/day21.iml" filepath="$PROJECT_DIR$/src/week5/day2/day21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week2/day2/day22.iml" filepath="$PROJECT_DIR$/src/week2/day2/day22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week1/day2/day23.iml" filepath="$PROJECT_DIR$/src/week1/day2/day23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week4/day2/day24.iml" filepath="$PROJECT_DIR$/src/week4/day2/day24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week3/day3/day3.iml" filepath="$PROJECT_DIR$/src/week3/day3/day3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week5/day3/day31.iml" filepath="$PROJECT_DIR$/src/week5/day3/day31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week2/day3/day32.iml" filepath="$PROJECT_DIR$/src/week2/day3/day32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week4/day3/day33.iml" filepath="$PROJECT_DIR$/src/week4/day3/day33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week1/day3/day34.iml" filepath="$PROJECT_DIR$/src/week1/day3/day34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week4/day4/day4.iml" filepath="$PROJECT_DIR$/src/week4/day4/day4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week1/day4/day41.iml" filepath="$PROJECT_DIR$/src/week1/day4/day41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week4/day5/day5.iml" filepath="$PROJECT_DIR$/src/week4/day5/day5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_ninth_edi.iml" filepath="$PROJECT_DIR$/.idea/java_ninth_edi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week6/oct20/oct20.iml" filepath="$PROJECT_DIR$/src/week6/oct20/oct20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week1/prob_day_1/prob_day_1.iml" filepath="$PROJECT_DIR$/src/week1/prob_day_1/prob_day_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week5/week5.iml" filepath="$PROJECT_DIR$/src/week5/week5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week6/week6.iml" filepath="$PROJECT_DIR$/src/week6/week6.iml" />
+    </modules>
+  </component>
+</project>
